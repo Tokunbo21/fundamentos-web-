@@ -3,7 +3,7 @@
 */
 #menu li{
   display: inline;
-    padding: 20px;
+    padding: 40px;
 }
 #menu li a {
     text-decoration: none;
